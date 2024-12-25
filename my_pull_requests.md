@@ -1,0 +1,1 @@
+[Fiber memory leak removal in idempotency middleware](https://github.com/gofiber/fiber/pull/3263)
