@@ -1,4 +1,4 @@
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=40000&color=5E7EF7&background=B4B7FF1D&center=true&vCenter=true&random=false&width=435&lines=fmt.Println("hi!")+)](https://git.io/typing-svg)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1000&color=4761F7&background=2771FF1B&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=fmt.Println(%22hi!%22);defer+fmt.Println(%22bye!%22))](https://git.io/typing-svg)
 
 I am Software engineer student <br/>
 &emsp; at **Faculty of Computer Science** <br/>
