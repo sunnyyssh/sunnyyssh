@@ -10,4 +10,4 @@ Software engineer student <br/>
 
 [**Brief CV in english**](CV_simplified.pdf)
 
-[**Резюме на русском**](Резюме.pdf)
+[**Резюме на русском**](РезюмеБагавиевБулат.pdf)
