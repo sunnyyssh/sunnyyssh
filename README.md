@@ -8,6 +8,3 @@ Software engineer student <br/>
 &emsp; **Faculty of Computer Science** <br/>
 &emsp; **Higher School of Economics**.
 
-[**Brief CV in english**](CV_simplified.pdf)
-
-[**Резюме на русском**](РезюмеБагавиевБулат.pdf)
