@@ -2,7 +2,7 @@
 
 **Career** \
 03.2026-nowadays \
-&emsp; **VK AI, [AdTech](https://ads.vk.com/). API Development Group** - Backend developer \
+&emsp; **Ozon Bank, Brokerage** - Backend developer \
 06.2025-03.2026 \
 &emsp; **Yandex. [Smart home with Alice](https://alice.yandex.ru/smart-home)** - Backend developer \
 02.2025-06.2025 \
